@@ -22,6 +22,8 @@ Screenshots of Skew in action:
 
 <img width="500" height="266" alt="skew-dashboard" src="https://github.com/user-attachments/assets/37fdbd3b-a589-4a99-994c-a460364b34ea" />
 
+![skew-volatility](https://github.com/user-attachments/assets/61ce844d-2f23-45d3-bfef-cce851f81481)
+
 ---
 
 ## 🎯 Key Features
